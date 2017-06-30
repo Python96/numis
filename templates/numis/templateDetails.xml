@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+    <name>numis</name>
+    <creationDate>28 Giugno 2017</creationDate>
+    <author>Antonio Rossetti</author>
+    <authorEmail>antoniorossetti.7@outlook.it</authorEmail>
+    <copyright>Copyright (C) 2017 Open Source Antonio Rossetti, Inc. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <version>3.1.0</version>
+    <description>My first serious template</description>
+
+    <files>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+        <folder>css</folder>
+        <folder>html</folder>
+        <folder>images</folder>
+        <folder>js</folder>
+        <folder>fonts</folder>
+        <folder>page</folder>
+    </files>
+    
+    <positions>
+        <position>debug</position>
+        <position>header</position>
+        <position>menu</position>
+        <position>section</position>
+        <position>section-2</position>
+        <position>section-3</position>
+        <position>section-4</position>
+        <position>footer</position>
+    </positions>
+
+</extension>
